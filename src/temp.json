@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "name": "Dipjytoi Das",
+      "bio": "4 wheels move the body, two wheels move the soul... Travel is life",
+      "dob": "1999-12-20",
+      "from_location": "",
+      "location": "Kolkata",
+      "job": [
+        {
+          "id": "1",
+          "job_title": "Lab Technician",
+          "job_company": "Fortis"
+        }
+      ],
+      "education": [
+        {
+          "id": "1",
+          "institution_name": "R.G. Kar Medical College",
+          "graduation_year": "2023"
+        }
+      ],
+      "id": "3ca3f7bcb7264de6b814dccb2c8e6192",
+      "images": [
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/d4d9665aff9553ae.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/fea1e1cf3692b67c.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/f8cc1803f2db8e65.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/9026a4c167c5277b.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/d18db97ec03bcf40.jpg"
+      ],
+      "prompts": [
+        {
+          "id": 1,
+          "prompt_title": "Swipe right if...",
+          "prompt_body": "You also want to travel the world"
+        },
+        {
+          "id": 2,
+          "prompt_title": "A non-negotiable...",
+          "prompt_body": "Craze for fooood!"
+        },
+        {
+          "id": 3,
+          "prompt_title": "I am a real nerd about...",
+          "prompt_body": "Travelling!"
+        }
+      ],
+      "basics": [
+        {
+          "name": "smoking",
+          "value": "Never"
+        },
+        {
+          "name": "drinking",
+          "value": "Occassionally"
+        },
+        {
+          "name": "height",
+          "value": "176 cm"
+        }
+      ]
+    },
+    {
+      "name": "Suchismita Deblaskar",
+      "bio": "nyctophile",
+      "dob": "2000-02-02",
+      "from_location": "",
+      "location": "Shillong",
+      "job": [
+        {
+          "id": "1",
+          "job_title": "SDE",
+          "job_company": "Nagarro"
+        }
+      ],
+      "education": [
+        {
+          "id": "1",
+          "institution_name": "Stanford",
+          "graduation_year": "2023"
+        }
+      ],
+      "id": "3ca3f7bcb7264de6b814dccb2c8e6192",
+      "images": [
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/05caa699b63387b3.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/b3e2a49f6cc4d03f.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/7c424cb10a97584a.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/dc3b3ccddfcd3efb.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/bbcf1dbcdbf7723e.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/ccee51e7e9357a59.jpg"
+      ],
+      "prompts": [
+        {
+          "id": 1,
+          "prompt_title": "The quickest way to my heart is..",
+          "prompt_body": "Just be a gentleman, a foodie"
+        },
+        {
+          "id": 2,
+          "prompt_title": "We will get along if...",
+          "prompt_body": "U like soft music, rides or just sit and talk for hours about anything"
+        },
+        {
+          "id": 3,
+          "prompt_title": "A fun fact I'm obsessed with...",
+          "prompt_body": "Can't remember one"
+        }
+      ],
+      "basics": [
+        {
+          "name": "smoking",
+          "value": "Regularly"
+        },
+        {
+          "name": "drinking",
+          "value": "Regularly"
+        },
+        {
+          "name": "height",
+          "value": "165 cm"
+        }
+      ]
+    },
+    {
+      "name": "Prithish Roy",
+      "bio": "Studying the working of the world with Physics.",
+      "dob": "2000-09-28",
+      "from_location": "",
+      "location": "Benaras",
+      "job": [
+        {
+          "id": "1",
+          "job_title": "SDE",
+          "job_company": "Nagarro"
+        }
+      ],
+      "education": [
+        {
+          "id": "1",
+          "institution_name": "Stanford",
+          "graduation_year": "2023"
+        }
+      ],
+      "id": "3ca3f7bcb7264de6b814dccb2c8e6192",
+      "images": [
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/2a6234759788680f.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/8b97c772363c14ef.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/8c0b0a6956d26da0.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/e5be1941a4c907b2.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/b704a702d93d207b.jpg"
+      ],
+      "prompts": [
+        {
+          "id": 1,
+          "prompt_title": "Favorite quality in a person...",
+          "prompt_body": "You also want to travel the world"
+        },
+        {
+          "id": 2,
+          "prompt_title": "If I could have a superpower it'd be...",
+          "prompt_body": "It'd be like a Super Saiyan (Goku)"
+        },
+        {
+          "id": 3,
+          "prompt_title": "My zombie apocalype plan is...",
+          "prompt_body": "Find weapons like katanas, guns, crossbows. Kill zombies one by one. Make sure to never face multiple zombies at once. If possible recruit survivors."
+        }
+      ],
+      "basics": [
+        {
+          "name": "smoking",
+          "value": "Never"
+        },
+        {
+          "name": "drinking",
+          "value": "Occassionally"
+        },
+        {
+          "name": "height",
+          "value": "176 cm"
+        }
+      ]
+    },
+    {
+      "name": "Barsha Roy",
+      "bio": "Sweet as sugar, hard as ice.",
+      "dob": "2002-02-02",
+      "from_location": "",
+      "location": "Kokrajhar",
+      "job": [
+        {
+          "id": "1",
+          "job_title": "SDE",
+          "job_company": "Nagarro"
+        }
+      ],
+      "education": [
+        {
+          "id": "1",
+          "institution_name": "Stanford",
+          "graduation_year": "2023"
+        }
+      ],
+      "id": "3ca3f7bcb7264de6b814dccb2c8e6192",
+      "images": [
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/f11fa9d2b4a383c0.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/0300400cb8e79622.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/e6dc7af9ee927738.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/e57a0eddfaf47ea5.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/8ebe3c9282cfc619.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/f447e6ed59cc8834.jpg"
+      ],
+      "prompts": [
+        {
+          "id": 1,
+          "prompt_title": "The quickest way to my heart is..",
+          "prompt_body": "A trip to the mountains, good food!"
+        },
+        {
+          "id": 2,
+          "prompt_title": "We will get along if...",
+          "prompt_body": "You share my love for junk food! And if you’d bunk classes and tuitions for me."
+        },
+        {
+          "id": 3,
+          "prompt_title": "Favorite quality in a person...",
+          "prompt_body": "Humbleness"
+        }
+      ],
+      "basics": [
+        {
+          "name": "smoking",
+          "value": "Regularly"
+        },
+        {
+          "name": "drinking",
+          "value": "Regularly"
+        },
+        {
+          "name": "height",
+          "value": "165 cm"
+        }
+      ]
+    },
+    {
+      "bio": "Hurry Up, We're dreaming.",
+      "dob": "2001-03-16",
+      "drinking": "Never",
+      "education": [
+        {
+          "graduation_year": "2023",
+          "id": 1,
+          "institution_name": "TICT"
+        }
+      ],
+      "education_level": "Undergraduate degree",
+      "exercise": "Active",
+      "gender": "",
+      "height": "",
+      "id": "56bd9545dacc486ba4d795f4319cccdd",
+      "image_profile": "",
+      "images": [
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/7cdedc1a49df6f68.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/d5fd5378b0fd14e9.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/be93aff582eec40b.jpg"
+      ],
+      "instagram": "",
+      "interested_in": "Women",
+      "job": [
+        {
+          "id": 1,
+          "job_company": "Brevit Labs",
+          "job_title": "Backend Dev"
+        }
+      ],
+      "kids": "Not sure yet",
+      "live_location": {
+        "lat": 22.5086452,
+        "long": 88.3976225
+      },
+      "location_current": "Kolkata",
+      "location_from": "Dinhata",
+      "looking_for": "Relationship",
+      "mode": "",
+      "name": "Hrit Saha",
+      "prompts": [
+        {
+          "id": 1,
+          "prompt_body": "Play some heavy metal! 🤘🏽",
+          "prompt_title": "The quickest to get into my heart..."
+        },
+        {
+          "id": 2,
+          "prompt_body": "I would use the gadget to play/pause time.",
+          "prompt_title": "If I had Doraemon..."
+        },
+        {
+          "id": 3,
+          "prompt_body": "Not being an asshole.",
+          "prompt_title": "Favorite quality in a person..."
+        }
+      ],
+      "smoking": "Never",
+      "spotify": "",
+      "star_sign": "",
+      "twitter": ""
+    },
+    {
+      "bio": "flowers and sunsets.",
+      "dob": "2001-01-01",
+      "drinking": "Socially",
+      "education": [
+        {
+          "graduation_year": "2022",
+          "id": 1,
+          "institution_name": "DU"
+        }
+      ],
+      "education_level": "Undergraduate degree",
+      "exercise": "Sometimes",
+      "gender": "",
+      "height": "",
+      "id": "4e38f47d0acd4450acfd364004bbc363",
+      "image_profile": "",
+      "images": [
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/0d40b35bf90f3cee.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/3b6eba4644b18c51.jpg",
+        "https://martiannn.s3.ap-south-1.amazonaws.com/profile_pics/3442a7e14dec5567.jpg"
+      ],
+      "instagram": "",
+      "interested_in": "Men",
+      "job": [
+        {
+          "id": "",
+          "job_company": "",
+          "job_title": ""
+        }
+      ],
+      "kids": "Not sure yet",
+      "live_location": {
+        "lat": 22.508635,
+        "long": 88.397609
+      },
+      "location_current": "Delhi",
+      "location_from": "",
+      "looking_for": "Don't know yet",
+      "mode": "",
+      "name": "Laijou Brahma",
+      "prompts": [
+        {
+          "id": 1,
+          "prompt_body": "Humility!",
+          "prompt_title": "Favorite quality in a person..."
+        },
+        {
+          "id": 2,
+          "prompt_body": "It would be the ability to teleport.",
+          "prompt_title": "If I could have a superpower..."
+        },
+        {
+          "id": 3,
+          "prompt_body": "Fooood!",
+          "prompt_title": "I am a real nerd about..."
+        }
+      ],
+      "smoking": "Never",
+      "spotify": "",
+      "star_sign": "",
+      "twitter": ""
+    }
+  ]
+}

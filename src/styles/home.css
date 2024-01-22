@@ -1,0 +1,37 @@
+.cc-hero-height {
+  height: calc(100vh - 46px - 40px);
+}
+
+@keyframes slide {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-100%);
+  }
+}
+
+.img_wrapper {
+  display: inline-block;
+  animation: 35s slide infinite linear;
+}
+
+/* .right::before, */
+.right::after {
+  position: absolute;
+  right: 0;
+  width: 69%;
+  height: 18rem;
+  content: "";
+  z-index: 2;
+}
+
+/* .right::before {
+    top: 0;
+    background: linear-gradient(white, rgba(255, 255, 255, 0));
+  } */
+
+.right::after {
+  bottom: 0;
+  background: linear-gradient(rgba(255, 255, 255, 0), white);
+}
