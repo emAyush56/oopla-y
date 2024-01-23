@@ -1,11 +1,11 @@
 import { useEditProfileData } from "@/contexts/EditProfileDataProvider";
 import ProfileHeader from "./ProfileHeader";
 import ButtonLoaderBg from "../shared/ButtonLoaderBg";
+import ProfileUserPhotos from "./ProfileUserPhotos";
 
 function EditProfileContainer() {
-  const { loading, userData } = useEditProfileData();
-
-  console.log(userData?.name, userData?.dob);
+  const { loading, userData, allUserPhotos, setAllUserPhotos } =
+    useEditProfileData();
 
   if (loading) {
     return (
@@ -19,6 +19,11 @@ function EditProfileContainer() {
     <div className="wrapper h-full w-full">
       <div className="date-profile mx-auto h-full max-w-lg px-4 py-4">
         <ProfileHeader userName={userData?.name} dateOfBirth={userData?.dob} />
+        <ProfileUserPhotos
+          allUserPhotos={allUserPhotos}
+          setAllUserPhotos={setAllUserPhotos}
+          userData={userData}
+        />
       </div>
     </div>
   );
